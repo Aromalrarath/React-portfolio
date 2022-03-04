@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.0381bb85.css",
+    "main.js": "/React-portfolio/static/js/main.2c786465.js",
+    "static/media/about.jpg": "/React-portfolio/static/media/about.359ea6dcdef4b6f01718.jpg",
+    "static/media/Aromal-Resume.pdf": "/React-portfolio/static/media/Aromal-Resume.b543a81c9f8e7d405ac9.pdf",
+    "static/media/45-degree-fabric-dark.png": "/React-portfolio/static/media/45-degree-fabric-dark.3a1471f2da0e2229237f.png",
+    "static/media/pexels-photo-1183266.jpeg": "/React-portfolio/static/media/pexels-photo-1183266.b55916099f129f86da8f.jpeg",
+    "index.html": "/React-portfolio/index.html",
+    "main.0381bb85.css.map": "/React-portfolio/static/css/main.0381bb85.css.map",
+    "main.2c786465.js.map": "/React-portfolio/static/js/main.2c786465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0381bb85.css",
+    "static/js/main.2c786465.js"
+  ]
+}
